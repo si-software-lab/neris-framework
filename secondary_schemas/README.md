@@ -1,5 +1,5 @@
 # NERIS Data Framework - Secondary Schemas
-This folder contains the data framework for the secondary schemas, currently in development, for the National Emergency Response Information System (NERIS). This includes the Community Risk Reduction, Incident Analysis, and Healthy & Safety Schemas.
+This folder contains the data framework for the secondary schemas, currently in development, for the National Emergency Response Information System (NERIS). This includes the Community Risk Reduction, Incident Analysis, and Health & Safety Schemas.
 
 It is worth noting that, because these schemas are still in development, many of the metadata fields and data requirements are also in the process of being defined and may not perfectly align with the Core Schemas at this time. Currently, they are intended to provide a set of descriptive representations of the data elements an end user would expect to see in the system regarding their department or one of its incidents.
 
